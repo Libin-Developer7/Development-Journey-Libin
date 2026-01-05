@@ -1,0 +1,5 @@
+principal = int(input("enter principal amount:"))
+interest_rate = float(input("enter interest rate:"))
+loan_tenure = int(input("enter loan tenure:"))
+EMI_amount = (principal*interest_rate*(1+interest_rate)**loan_tenure)/((1+interest_rate)**(loan_tenure-1))
+print(EMI_amount)                      
