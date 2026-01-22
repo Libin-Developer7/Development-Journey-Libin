@@ -15,9 +15,9 @@ if "category" in product:
 else:
     print("not exist")
 
-# add avl_qty as 15 if avl_qty not exist else update avl_qty as current qty+10
+# add avl_qty as 15 if avl_qty not exist, else update avl_qty as current qty+10
 if "avl_qty" in product:
     product["avl_qty"]+=10
 else:
-    product["avl_qty"]==15
+    product["avl_qty"]=15
 print(product)
