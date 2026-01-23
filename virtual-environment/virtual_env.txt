@@ -1,0 +1,15 @@
+virtual environment is an isolated environment for an application(installing packages in an venv instead of gloabally)
+
+installing virtualenv package
+> pip install virtualenv
+
+creating virtual environment
+> python -m virtualenv envname ('python -m' run as module)
+
+activating virtual env by running activate file
+>envname\scripts\activate
+
+pip freeze requirements.txt - creates a txt file of installed packages
+
+using the venv
+>select kernal(top right)->python environments->venv
