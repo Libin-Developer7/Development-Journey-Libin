@@ -1,0 +1,33 @@
+decision making
+leap year
+fizz buzz
+
+looping
+armstrong number
+fibonacci
+prime number
+factorial
+pattern
+number_palindrome
+
+string
+consonants and vowels
+anagram
+pangram
+kangarooword
+merge_string
+string_palindrome
+longest palindromic substring
+
+arrays[list]
+second_largest without using method
+two_pair sum arr=[2,3,4,5],t=7, result = (2,5)
+least_positive_missing_number [ arr=[1,2,3,4,5] res=6]
+duplicate_number [arr=[1,2,2,3,4]]
+binary_search
+closest_number_to_zero = [-1,2,1,4]
+
+map(dictionary)
+word_count
+first_recursive
+most_recursive
